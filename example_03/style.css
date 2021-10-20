@@ -1,0 +1,66 @@
+.home-page {
+  width: 100%;
+}
+
+.home-page-content {
+  margin: auto;
+  width: fit-content;
+}
+
+.home-page-logo {
+  font-size: 6rem;
+  margin: 2rem;
+  text-align: center;
+}
+
+.home-page-input {
+  min-width: 10rem;
+  width: 50vw;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  font-size: 1.1rem;
+  border-radius: 1rem;
+  border-width: 0.1rem;
+}
+
+.home-page-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.logo-letter {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-letter-blue {
+  color: #0085e7;
+}
+
+.logo-letter-red {
+  color: #e94f29;
+}
+
+.logo-letter-yellow {
+  color: #e7b11b;
+}
+
+.logo-letter-green {
+  color: #209b55;
+}
+
+button {
+  background-color: #f2f2f0;
+  border: none;
+  color: gray;
+  padding: 1rem 1.2rem;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+button:hover {
+  background-color: #e7e7e7;
+}
+
+#search-button {
+  margin-right: 2rem;
+}
